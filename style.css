@@ -1,0 +1,30 @@
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#geneCanvas {
+  background-color: black;
+  align-self: center;
+}
+
+#chromosomeDisplay {
+display: flex;
+  width: 80%;
+  font-family: monospace;
+  /* Ensures each character takes up the same width */
+  white-space: pre-wrap;
+  /* Allows breaking at normal white-space points */
+  word-break: break-all;
+  /* Break anywhere if needed, but try for normal white-space first */
+
+  /* Set the width of the div to 80% of its container */
+  margin: auto;
+  /* Center the div */
+  border: 1px solid #ccc;
+  /* Optional border for visual aid */
+  padding: 10px;
+  /* Padding inside the div */
+}
