@@ -6,10 +6,13 @@ This interactive JavaScript simulation visualizes gene sequencing and chromosome
 
 ## Key Features
 
-- **Dynamic Animation**: Sequences move and collide on a canvas, simulating the random nature of gene sequencing.
-- **Chromosome Formation**: Groups of sequences form chromosomes, reflecting biological processes.
-- **Visual Interface**: A clean and engaging graphical display with categories like "People," "Food," "Places," "Emotions," "Colors," and "Numbers."
-- **Educational Purpose**: Serves as a visual aid for explaining genetic sequencing and chromosome organization.
+- **Dynamic Animation**: Sequences move and interact within the canvas, simulating the stochastic nature of gene sequencing.
+- **Chromosome Formation**: Simulated chromosomes are formed when groups of sequences combine, each containing 2000 genes to align with the constraints of the simulation.
+- **Educational Purpose**: Serves as an illustrative guide to the basics of genetic sequencing and chromosome organization, making complex concepts accessible to learners.
+
+## Simulation vs. Reality
+
+In this simulation, chromosomes are simplified to contain 2000 genes for illustrative purposes. However, in reality, chromosomes comprise billions of genes, and gene sequencing is a highly complex process that involves sophisticated and expensive hardware, far beyond the scope of this educational model.
 
 ## Project Screenshot
 
